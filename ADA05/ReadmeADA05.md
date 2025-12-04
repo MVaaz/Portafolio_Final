@@ -1,1 +1,1 @@
-
+En esta actividad tuvimos que investigar y presentar un algoritmo de ordenamiento (Heap Sort en el caso de mi equipo). No fue muy dificil, el algoritmo es facil de entender, es basicamente un monton de comparaciones para hacer que el numero mas alto de un arreglo suba a la cima de un arbol binario y reemplazarlo con el que este en la raiz.
