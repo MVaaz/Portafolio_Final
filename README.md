@@ -1,7 +1,9 @@
 # Portafolio_Final
 Portafolio final de la materia Estructuras de Datos
 
-ADA 1: Pilas
+ADA 1: Pilas 
+
+Enlace: https://github.com/MVaaz/Portafolio_Final/tree/67785119536fafdfc5f2a6e945f8cb4bafeaeb86/ADA01
 
 Problema. Parser de Expresiones Aritméticas
 
@@ -50,6 +52,8 @@ Operador     | Orden de Prioridad
 
 ADA 2: Simulador de Atención al Cliente en un Banco (Queues)
 
+Enlace: https://github.com/MVaaz/Portafolio_Final/tree/67785119536fafdfc5f2a6e945f8cb4bafeaeb86/ADA02
+
 Objetivo: Implementar un sistema de simulación de atención en un banco que maneje dos o tres
 colas de clientes, permitiendo analizar tiempos de espera y eficiencia del servicio.
 
@@ -70,6 +74,8 @@ Notas para el desarrollo: Para el desarrollo tenga en cuenta lo siguiente:
   • Utilizar funciones para la lectura, cálculos, i
 
 ADA 3: Implementación de lista de Movies con Listas
+
+Enlace: https://github.com/MVaaz/Portafolio_Final/tree/67785119536fafdfc5f2a6e945f8cb4bafeaeb86/ADA03
 
 Descripción: Utilizando el archivo Movie.csv implemente una Lista Doblemente Ligada de Movies (películas). La
 implementación deberá contar con los siguientes procesos:
@@ -98,6 +104,8 @@ Notas para el desarrollo: Para el desarrollo tenga en cuenta lo siguiente:
 
 ADA 4: Gestión de estudiantes con árboles binarios de búsqueda
 
+Enlace: https://github.com/MVaaz/Portafolio_Final/tree/67785119536fafdfc5f2a6e945f8cb4bafeaeb86/ADA04
+
 Objetivo: Desarrollar un sistema de gestión de estudiantes utilizando árboles binarios de búsqueda (ABB).
 
 Descripción: Se implementará un sistema que almacene y gestione información de los estudiantes usando un
@@ -124,6 +132,8 @@ Notas para el desarrollo: Para el desarrollo tenga en cuenta lo siguiente:
   • Hacer buen uso de la estructura Árbol Binario de Búsqueda.
 
 ADA 5: Investigación/Presentación algoritmos de ordenamiento
+
+Enlace: https://github.com/MVaaz/Portafolio_Final/tree/67785119536fafdfc5f2a6e945f8cb4bafeaeb86/ADA05
 
 Descripción: Objetivo: Investigar y presentar un algoritmo de ordenamiento asignado, explicando su
 funcionamiento, características, eficiencia y casos de uso, según la categoría correspondiente.
@@ -170,6 +180,8 @@ Cada equipo deberá desarrollar los siguientes puntos para su algoritmo asignado
 
 ADA 6: Implementación de ordenamiento
 
+Enlace: https://github.com/MVaaz/Portafolio_Final/tree/67785119536fafdfc5f2a6e945f8cb4bafeaeb86/ADA06
+
 Descripción: Utilizando los algoritmos de ordenamiento presentados por sus compañeros, así como el código fuente en el repositorio https://github.com/luisbastoUADY/sorting-algorithms.git, implemente los algoritmos de ordenamiento que se le asignó al equipo. 
 
 Consideraciones:
@@ -187,6 +199,8 @@ Consideraciones:
     o Crear un pull request hacia la rama principal (main o master)
     
 ADA 7:Descripción: Implementar en C/C++ los siguientes
+
+Enlace: https://github.com/MVaaz/Portafolio_Final/tree/67785119536fafdfc5f2a6e945f8cb4bafeaeb86/ADA07
 
 Aplicación 01: Registro de Estudiantes con Colisiones Controladas
   
