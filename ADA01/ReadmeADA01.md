@@ -1,1 +1,1 @@
-
+En esta ADA vimos el tema de las pilas (o stacks). Conceptualmente, no me fue muy dificil entenderlo, existe un juego de cartas llamado Magic: The Gathering que usa un sistema de pilas que usa el mismo concepto de "primero en entrar, ultimo en salir". De igual manera la materia de Teoria de la computacion fue de gran ayuda para visualizarlo como automatas y seguir una serie de pasos.
