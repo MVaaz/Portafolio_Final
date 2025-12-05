@@ -1,1 +1,1 @@
-
+Esta ADA me dio muchos problemas. El concepto de las listas ligadas en si no es mucho problema, es muy similar a las filas vistas anteriormente, mi mayor problema fue a la hora de programar. Tiendo a confindirme con los puntadores acerca de cual dato es el que quiero que use (un dato o la direccion de ese dato). Igualmente por alguna razon no podia hacer que mi programa leyera un archivo tan grande sin crashear y al final solo logre que funcionara con alrededor de 50 entradas.
